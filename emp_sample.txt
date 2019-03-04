@@ -1,0 +1,3 @@
+1	peter,architect,chicago,1025,yes
+2	jay,director,minneapolis,1045,yes
+3	luke,sales,minneapolis,1055,no
